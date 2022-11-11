@@ -6,7 +6,6 @@
 #### open command prompt
 #### type 'python' hit enter
 #### >> import nltk
-#### >> nltk.download('punkt')
 
 after succefull run of above command you can just type  'flask run' in the terminal run. (Terminal should be open in the folder where the all filles of code are present)
 
